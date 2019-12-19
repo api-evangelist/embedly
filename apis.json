@@ -1,0 +1,97 @@
+{
+    "name": "Embedly",
+    "description": "Embedly delivers the ultra-fast, easy to use products and tools for richer sites and apps.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/190-embedly.jpg",
+    "tags": [
+        "api service provider",
+        "embed",
+        "embeddable",
+        "have api",
+        "scraping",
+        "scraping tools",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/embedly\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Embedly",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/190-embedly.jpg",
+            "humanURL": "http:\/\/embed.ly\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/embedly-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/twitter.com\/weogeostatus"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.embed.ly\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/embed-ly"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/embed-ly"
+        },
+        {
+            "type": "Email",
+            "url": "support@embed.ly"
+        },
+        {
+            "type": "Email",
+            "url": "art@embed.ly"
+        },
+        {
+            "type": "Email",
+            "url": "bob@embed.ly"
+        },
+        {
+            "type": "Email",
+            "url": "kawandeep@embed.ly"
+        },
+        {
+            "type": "Email",
+            "url": "info@embed.ly"
+        },
+        {
+            "type": "Email",
+            "url": "customerservice@embed.ly"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@embed.ly"
+        },
+        {
+            "type": "Email",
+            "url": "sla@embed.ly"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/embedly"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/embedly"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/embed.ly\/"
+        }
+    ]
+}
